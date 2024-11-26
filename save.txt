@@ -1,0 +1,5 @@
+volume=100
+filename=Туман
+artist=Сектор газа
+track_id=41
+album_id=3
